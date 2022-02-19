@@ -1,4 +1,4 @@
-package com.bs.weather_mobile_app_ui.ui.theme
+package com.bs.weathermobileappui.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.bs.weather_mobile_app_ui
+package com.bs.weathermobileappui
 
 import org.junit.Test
 
