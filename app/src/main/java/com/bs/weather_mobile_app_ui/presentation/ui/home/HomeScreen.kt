@@ -109,7 +109,7 @@ fun WeatherDetailSection(
         Card(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(top = 50.dp, start = 20.dp, end = 20.dp),
+                .padding(top = 50.dp, start = 20.dp, end = 20.dp, bottom = 10.dp),
             elevation = 1.dp,
             shape = RoundedCornerShape(10.dp),
             backgroundColor = Color.White
