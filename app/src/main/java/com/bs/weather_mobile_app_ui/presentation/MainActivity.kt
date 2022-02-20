@@ -1,4 +1,4 @@
-package com.bs.weathermobileappui.presentation
+package com.bs.weather_mobile_app_ui.presentation
 
 import android.os.Bundle
 import android.util.Log
@@ -27,11 +27,11 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.bs.weathermobileappui.presentation.ui.home.HomeScreen
-import com.bs.weathermobileappui.presentation.ui.theme.WeatherMobileAppUITheme
-import com.bs.weathermobileappui.presentation.ui.theme.background
-import com.bs.weathermobileappui.presentation.welcome.WelcomeScreen
-import com.bs.weathermobileappui.R
+import com.bs.weather_mobile_app_ui.presentation.ui.home.HomeScreen
+import com.bs.weather_mobile_app_ui.presentation.ui.theme.WeatherMobileAppUITheme
+import com.bs.weather_mobile_app_ui.presentation.ui.theme.background
+import com.bs.weather_mobile_app_ui.presentation.welcome.WelcomeScreen
+import com.bs.weather_mobile_app_ui.R
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

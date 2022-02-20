@@ -1,4 +1,4 @@
-package com.bs.weathermobileappui.presentation.welcome
+package com.bs.weather_mobile_app_ui.presentation.welcome
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -22,11 +22,11 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.bs.weathermobileappui.R
-import com.bs.weathermobileappui.presentation.ui.theme.LightPerple
-import com.bs.weathermobileappui.presentation.ui.theme.background
-import com.bs.weathermobileappui.presentation.ui.theme.SecondBackground
-import com.bs.weathermobileappui.presentation.ui.theme.ThirdBackground
+import com.bs.weather_mobile_app_ui.R
+import com.bs.weather_mobile_app_ui.presentation.ui.theme.LightPerple
+import com.bs.weather_mobile_app_ui.presentation.ui.theme.background
+import com.bs.weather_mobile_app_ui.presentation.ui.theme.SecondBackground
+import com.bs.weather_mobile_app_ui.presentation.ui.theme.ThirdBackground
 
 @Composable
 fun WelcomeScreen(

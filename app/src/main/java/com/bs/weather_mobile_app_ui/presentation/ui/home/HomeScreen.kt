@@ -1,4 +1,4 @@
-package com.bs.weathermobileappui.presentation.ui.home
+package com.bs.weather_mobile_app_ui.presentation.ui.home
 
 import androidx.compose.foundation.*
 import androidx.compose.foundation.gestures.scrollable
@@ -25,7 +25,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.IntSize
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.bs.weathermobileappui.R
+import com.bs.weather_mobile_app_ui.R
 
 @Composable
 fun HomeScreen() {

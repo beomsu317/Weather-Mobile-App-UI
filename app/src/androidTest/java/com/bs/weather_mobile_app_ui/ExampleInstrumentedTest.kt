@@ -1,4 +1,4 @@
-package com.bs.weathermobileappui
+package com.bs.weather_mobile_app_ui
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
