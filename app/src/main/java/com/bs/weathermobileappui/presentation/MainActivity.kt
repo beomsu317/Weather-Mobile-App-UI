@@ -87,7 +87,7 @@ class MainActivity : ComponentActivity() {
                     Box(modifier = Modifier.padding(innerPadding)) {
                         NavHost(
                             navController = navController,
-                            startDestination = Screen.HomeScreen.route
+                            startDestination = Screen.WelcomeScreen.route
                         ) {
                             composable(Screen.WelcomeScreen.route) {
                                 WelcomeScreen(onNavigate = {
