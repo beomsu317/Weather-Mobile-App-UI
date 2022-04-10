@@ -1,4 +1,4 @@
-# Weather-Mobile-App-UI
+# Weather App
 
 ## App Preview
 
